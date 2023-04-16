@@ -16,9 +16,8 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const router = useRouter();
 
   const meta = {
-    title: "Osvaldo Raynier Murillo - Developer",
-    description: `I've been developing iOS apps for 5 years straight, almost 2 years developing Flutter apps and
-		frontend, backend with node js. Get in touch with me to know more.`,
+    title: "Manu Arora - Developer, Writer, Creator and YouTuber",
+    description: `I've been developing websites for 5 years straight. Get in touch with me to know more.`,
     image: "/avatar.png",
     type: "website",
     ...customMeta,
