@@ -13,7 +13,7 @@ export default function Home({ repositories }) {
       description="This is a template built specifically for my blog - Creating a developer portfolio that gets you a job."
     >
       <Hero />
-      {/* <FavouriteProjects /> */}
+      <FavouriteProjects />
       <LatestCode repositories={repositories} />
     </ContainerBlock>
   );
