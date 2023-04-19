@@ -2,7 +2,7 @@ const userData = {
 	githubUsername: "rayvald",
 	name: "Osvaldo Raynier Murillo",
 	designation: "Developer",
-	avatarUrl: "/me.jpeg",
+	avatarUrl: "./images/me.jpeg",
 	email: "osvaldo.murillo29@gmail.com",
 	phone: "+507 66097155",
 	address: "Arraijan, Panama Oeste, Panama",
