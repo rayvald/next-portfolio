@@ -28,7 +28,7 @@ export const getStaticProps = async () => {
 
   return {
     props: {
-      repositories,
+			repositories: repositories || null,
     },
   };
 };
