@@ -107,7 +107,7 @@ const userData = {
 	"https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
 	socialLinks: {
 		instagram: "https://instagram.com/rayniermurillo",
-		twitter: "https://twitter.com/rayvald",
+		twitter: "https://twitter.com/",
 		linkedin: "https://linkedin.com/in/osvaldo-murillo-737b66127/",
 		github: "https://github.com/rayvald",
 		// facebook: "https://facebook.com/",
