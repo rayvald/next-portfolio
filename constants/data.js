@@ -104,7 +104,7 @@ const userData = {
     },
 	],
 	resumeUrl:
-	"https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+	"https://drive.google.com/file/d/1pPjgvWdj6A0OaAoc13jMwMeyYz5p0i0b/view?usp=share_link",
 	socialLinks: {
 		instagram: "https://instagram.com/rayniermurillo",
 		twitter: "https://twitter.com/",
