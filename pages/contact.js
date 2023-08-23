@@ -1,12 +1,13 @@
 import React from "react";
 import ContainerBlock from "../components/ContainerBlock";
-import AboutMe from "../components/AboutMe";
+import Contact from "../components/Contact";
 
-export default function About() {
-
+export default function contact() {
 	return (
 		<ContainerBlock>
-			<AboutMe />
+			<Contact>
+
+			</Contact>
 		</ContainerBlock>
 	)
 }
