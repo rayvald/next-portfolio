@@ -15,7 +15,7 @@ export default function projects({ repositories }) {
 export const getServerSideProps = async () => {
 	let token = process.env.GITHUB_AUTH_TOKEN
 	const repositories = await getReposByLanguage(userData, token);
-  console.log("REPOSITORIES", repositories);
+  //console.log("REPOSITORIES", repositories);
 
   return {
     props: {
